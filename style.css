@@ -1,0 +1,49 @@
+body {
+    background-color: #ecc9d3;
+    color: black;
+    font-family: cursive;
+    text-align: justify;
+}
+
+h1 {
+    color:#e942a3;
+    text-align: center;
+}
+
+h3 {
+    color: #c12181;
+}
+a {
+    color: #98005e;
+    justify-content:space-between
+}
+.intro {
+    width: 100%;
+}
+.teoria{
+    width: 40%;
+    justify-content: center;
+}
+.sorpresa {
+    width: 10%;
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px #e942a3;
+}
+.c2{
+    width: 10.5%;
+    justify-content: space-around;
+}
+.c3{
+    width: 33%;
+
+}
+.c4{
+    width: 33%;
+}
+.muriel{
+    width: 46%;
+}
+.fred{
+    width: 33%;
+}
+
